@@ -1,4 +1,4 @@
-# GDo'kon
+# GDökon
 Compiled and used under WNT XP, WNT 7, FreeBSD 9.2, GNU/Linux.
 Still under development.
 Needs following softs:
